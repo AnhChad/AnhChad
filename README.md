@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://github.com/NigSol/NigSol/blob/main/banner.png)](https://github.com/NigSol)
+[![MasterHead](https://user-images.githubusercontent.com/92631167/188479653-6bb5cece-66a3-47b3-ba3d-a1345acd5bda.png)](https://github.com/NigSol)
 [![Nguyen Quoc Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nigsol&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigsol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nigsol)](https://github.com/anuraghazra/github-readme-stats)
